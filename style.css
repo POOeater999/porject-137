@@ -1,0 +1,24 @@
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    width: 50%;
+    font-size: 50px;
+    background-color: crimson;
+    border-radius: 360px;
+    border-style:double;
+    border-width: 20px;
+}
+
+a{
+    font-size: 20px !important;
+    margin: 50px;
+    background-color: darkviolet;
+    color: rgb(21, 0, 255);
+    font-weight: 900 !important;
+    width: 20%;
+    border-radius: 40px !important;
+}
